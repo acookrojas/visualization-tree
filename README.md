@@ -1,2 +1,2 @@
 # visualization-tree
-A D3.js tree visualization for publication downloads
+A D3.js tree visualization for Anuario downloads
